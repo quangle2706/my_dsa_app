@@ -2,10 +2,6 @@
 Here is the demo:
 https://www.youtube.com/shorts/bdYrbdkMYI4
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://youtube.com/shorts/bdYrbdkMYI4?feature=share))
-
-
-
 A new Flutter project.
 
 ## Getting Started
